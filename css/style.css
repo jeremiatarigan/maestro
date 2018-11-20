@@ -1,0 +1,54 @@
+.slider h2	,
+.slider h4 {
+	text-shadow: 5px 3px 5px rgba(0,0,0, 0.5);
+
+}
+.parallax-container{
+	height: 20%;
+}
+
+.parallax img{
+	filter: grayscale(1);
+	opacity: 0.5 ! important;
+}
+
+.pembayarann img{
+	width: 70%;
+	height: 5%;
+}
+
+section,footer {
+	padding: 20px 0px;
+}
+<style type="text/css">
+.card{
+	height: 250px;
+	width: 250px;
+	background-color:#ffccbc ;
+	float: left;
+	margin-right: 50px;
+	box-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+
+} 
+
+.gambar img{
+	height: 100px;
+	width: 150px;
+	padding-left: 50px;
+}
+
+.button	{
+	padding-left: 30px;
+	padding-top: 20px;
+}
+.harga	{
+	padding-left: 60px;
+	padding-top: 20px;
+}
+.nama	{
+	padding-left: 60px;
+	padding-top: 10px;
+	padding-top: 10px;
+	font-size: 25px;
+}
+ </style>
